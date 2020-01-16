@@ -1,11 +1,5 @@
 
-Welcome to the Kitchen
-
-Maggi
-Kheer
-
-Chicken Fry
-Pizza
+Welcome to the Kitchn
 
 Above menu items are going to Remove by the Mgmt
 
